@@ -15,7 +15,8 @@ If you look at the migration.sql file (that describes the database of the compan
 
   ## STEP 1:
   Create database -> open the terminal and access your mysql account (type: "mysql -u root -p")<br>
-                     Now type "SOURCE your/path/for/migration.sql;" . Your database is now ready.
+                     Now type "SOURCE your/path/for/migration.sql;" <br>
+                     Your database is now ready.
   ## STEP 2:
   Clone the repository and in the .env file copy the content of .env.example and insert your data to access mysql.
   ## STEP 3:
