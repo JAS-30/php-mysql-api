@@ -22,7 +22,7 @@ If you look at the migration.sql file (that describes the database of the compan
   ## STEP 3:
   You can now test the API's.
   Go to the repository in the terminal and create a server by typing "PHP -S localhost:8000"
-  I recommend using [POSTMAN](https://www.postman.com/downloads/)
+  I recommend using [POSTMAN](https://www.postman.com/downloads/)<br>
   Go on postman and start testing.
   (remember to use POST resquests first to fill the database)
 
