@@ -34,6 +34,6 @@ If you look at the migration.sql file (that describes the database of the compan
   - orders/:id (GET,DELETE)
   - orders/:id/:country (GET,PATCH,DELETE)
   - filter-range (GET) -> Sum of saved CO2 by time range
-  - filter-country (GET) -> Sum of saved CO2 by time country
-  - filter-product (GET) -> Sum of saved CO2 by time product
+  - filter-country (GET) -> Sum of saved CO2 by country
+  - filter-product (GET) -> Sum of saved CO2 by product
   
